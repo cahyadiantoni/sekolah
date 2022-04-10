@@ -1,1 +1,4 @@
 # sekolah
+
+CI
+PHP5
